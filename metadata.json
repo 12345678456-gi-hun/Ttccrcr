@@ -1,0 +1,6 @@
+{
+  "name": "V.O.I.D.",
+  "description": "Virtual Operations & Integrated Development - mobile IDE with Gemini AI, Vercel deployments, and Minecraft Bedrock addon builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
